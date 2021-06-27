@@ -1,6 +1,6 @@
-# 📺 ML YouTube Courses
+# 📺 ML Cursos YouTube 
 
-At dair.ai we ❤️ open education. We are excited to share some of the best and most recent machine learning courses available on YouTube.
+En dair.ai ❤️ la educación abierta. Nos complace compartir algunos de los mejores y más recientes cursos de aprendizaje automático disponibles en YouTube.
 
 Course List:
 
@@ -20,18 +20,18 @@ Course List:
 
 ---
 
-## Stanford CS229: Machine Learning
+## Stanford CS229: aprendizaje automático
 
-To learn some of the basics of ML:
+Para aprender algunos de los conceptos básicos del AA:
 
-• Linear Regression and Gradient Descent
-• Logistic Regression
-• Naive Bayes
-• SVMs
-• Kernels
-• Decision Trees
-• Introduction to Neural Networks
-• Debugging ML Models
+• Regresión lineal y descenso de gradientes
+• Regresión logística
+• Bayes ingenuo
+• SVM
+• Granos
+• Árboles de decisión
+• Introducción a las redes neuronales
+• Depurar modelos de AA
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
